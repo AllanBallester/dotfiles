@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = allan.ballester@decathlon.com
-	name = AllanBallester
+	email = allan@tepee.pro
+	name = Allan Ballester
